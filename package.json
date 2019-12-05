@@ -1,0 +1,26 @@
+{
+  "name": "testingframework",
+  "version": "1.0.0",
+  "description": "testing framework from zero",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/polpinya/testingFramework.git"
+  },
+  "keywords": [
+    "pol"
+  ],
+  "author": "pol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/polpinya/testingFramework/issues"
+  },
+  "homepage": "https://github.com/polpinya/testingFramework#readme",
+  "dependencies": {
+    "jasmine": "^3.5.0"
+  },
+  "devDependencies": {}
+}
