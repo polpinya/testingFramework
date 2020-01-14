@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "humao.rest-client",
+        "hbenl.vscode-test-explorer",
+        "hbenl.vscode-jasmine-test-adapter"
+    ]
+}

@@ -4,7 +4,7 @@
   "description": "testing framework from zero",
   "main": "index.js",
   "scripts": {
-    "test": "jasmine"
+    "test": "jasmine --config=framework/jasmine/jasmine.json"
   },
   "repository": {
     "type": "git",
