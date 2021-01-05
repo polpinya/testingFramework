@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/polpinya/testingFramework#readme",
   "dependencies": {
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "convert-excel-to-json": "^1.6.1",
     "jasmine": "^3.5.0"
   },
